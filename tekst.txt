@@ -5,3 +5,5 @@ touch
 git status
 git add 
 git commit
+
+	Punkt 6 21.11.2022 13:40
